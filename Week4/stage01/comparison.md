@@ -1,4 +1,4 @@
-#Human Version
+# Human Version
 Question Easy to understand?
 - Yes, as it features very easy to read comments and code
 Question Runs successfully?
@@ -11,7 +11,8 @@ Question Handles errors?
 - Checks patient name
 Question Could I explain it?
 - Yes
-#AI Version
+
+# AI Version
 Question Easy to understand?
 - Yes, but it did add the return statement
 Question Runs successfully?

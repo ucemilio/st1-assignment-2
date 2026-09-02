@@ -1,4 +1,4 @@
-#Reflection
+# Reflection
 
 The SmartCare appointment system prototype explored how patient names, practitioner names, and appointment times could be displayed and stored. The enhanced version made use of a list, dictionaries, and functions, and through this process a few limitations became clear, including gaps in validation and the possibility of double bookings.
 

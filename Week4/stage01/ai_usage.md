@@ -1,4 +1,4 @@
-#Microsoft Copilot Response to Part C
+# Microsoft Copilot Response to Part C
 
 Copilot said:
 Part C – Use AI as Tutor (AI ON)
